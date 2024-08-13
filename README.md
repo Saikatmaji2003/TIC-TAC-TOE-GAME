@@ -1,2 +1,2 @@
 # TIC-TAC-TOE-GAME
-TIC-TAC-TOE game which i develop using HTML,CSS and JavaScript. 
+TIC-TAC-TOE game this is my second game project .i have used HTML,CSS and JavaScript programming language to implement the code.
